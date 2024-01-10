@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Taskmate-version1/static/css/main.9101b3cd.css",
+    "main.js": "/Taskmate-version1/static/js/main.8ea5886f.js",
+    "static/media/logo.png": "/Taskmate-version1/static/media/logo.b25a05ba78ada615db19.png",
+    "index.html": "/Taskmate-version1/index.html",
+    "main.9101b3cd.css.map": "/Taskmate-version1/static/css/main.9101b3cd.css.map",
+    "main.8ea5886f.js.map": "/Taskmate-version1/static/js/main.8ea5886f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9101b3cd.css",
+    "static/js/main.8ea5886f.js"
+  ]
+}
