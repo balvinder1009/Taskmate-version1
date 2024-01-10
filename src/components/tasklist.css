@@ -1,0 +1,39 @@
+
+
+ul{
+    width: 550px;
+    border: 1px solid #c2c2c2;
+    padding: 20px;
+    margin-top: 20px;
+
+    margin-inline: auto;
+}
+
+li{
+    list-style: none;
+    border: 1px solid #c2c2c2;
+    padding: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button{
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 6px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.delete{
+    background: rgb(106, 1, 1);   
+}
+
+.toggle{
+    background: rgb(13, 13, 80);
+    color: #fff;
+    margin-bottom: 20px;
+}
